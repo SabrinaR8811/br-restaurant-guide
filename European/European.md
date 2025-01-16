@@ -2,7 +2,7 @@
 ---
 ## Greek food
 ### [Omonia-Cafe](../European/Greek/Omonia-Cafe.md)
-### [Something Greek](../European/Greek/Something-Greek/md)
+### [Something Greek](../European/Greek/Something-Greek.md)
 ## Meditarranean food
 ### [Le-sajj](../European/Mediterranean/Le-sajj.md)
 ### [Tanoreen](../European/Mediterranean/Tanoreen.md)
